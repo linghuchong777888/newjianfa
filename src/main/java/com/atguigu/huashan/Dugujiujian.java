@@ -7,6 +7,11 @@ package com.atguigu.huashan;
  */
 public class Dugujiujian {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("fdsafasfas");
+        System.out.println("fdsafasfas");
+        System.out.println("fdsafasfas");
+        System.out.println("fdsafasfas");
+        System.out.println("fdsafasfas");
+        System.out.println("fdsafasfas");
     }
 }
